@@ -72,7 +72,8 @@ li {
     padding-top: 49px;
 }
 
-.h2-about {
+.h2-about,
+.h2-contact {
     font-size: 60px;
 }
 
