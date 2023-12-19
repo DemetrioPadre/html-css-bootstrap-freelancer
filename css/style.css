@@ -81,3 +81,26 @@ li {
 .col-6 {
     height: 100px;
 }
+
+.downld {
+    border-radius: 10px;
+    background-color: inherit;
+    color: white;
+    border: 1px solid white;
+}
+
+
+.contact {
+    color: #425161;
+}
+
+.text-start {
+
+    border-bottom: 1px solid #425161;
+}
+
+.send {
+    border-radius: 10px;
+    background-color: #1abc9c;
+    border: none;
+}
