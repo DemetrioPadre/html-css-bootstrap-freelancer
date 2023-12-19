@@ -3,9 +3,11 @@
 }
 
 .navbar {
+    height: 80px;
     background-color: #2c3e50;
     color: white;
-    height: 100px;
+
+
 }
 
 .avatar {
@@ -28,4 +30,37 @@ ul {
 li {
     display: inline;
     list-style: none;
+}
+
+.bar-empty {
+    width: 100px;
+    height: 4px;
+    border: 2px solid white;
+    margin-top: 35px;
+    border-radius: 10px;
+}
+
+.col-12-star {
+    display: flex;
+    justify-content: center;
+}
+
+.star {
+    font-size: 50px;
+    padding: 5px;
+    padding-bottom: 30px;
+
+}
+
+.portfolio {
+    padding-top: 30px;
+}
+
+.bar-empty-blue {
+
+    width: 100px;
+    height: 4px;
+    border: 2px solid #304880;
+    margin-top: 35px;
+    border-radius: 10px;
 }
