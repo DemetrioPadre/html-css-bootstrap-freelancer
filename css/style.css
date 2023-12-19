@@ -18,8 +18,9 @@
     text-align: center;
 }
 
-.img-fluid {
-    max-width: 100%;
+.img {
+    background-size: 30px;
+
 }
 
 ul {
