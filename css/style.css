@@ -121,14 +121,16 @@ li {
     color: white;
 }
 
-/* .social-media { 
-border-radius: 50%;
-border: 1px solid white;
-object-fit: contain;
-width: 40px;
-height: 40px;
-font-size:30px;
-}*/
+/* */
+.social-media {
+    border-radius: 50%;
+    border: 1px solid white;
+    object-fit: contain;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    margin: 10px;
+}
 
 
 .mark-span-footer {
