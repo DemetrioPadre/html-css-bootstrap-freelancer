@@ -18,8 +18,9 @@
     text-align: center;
 }
 
-.img {
+.figure-img {
     background-size: 30px;
+    border-radius: 20px;
 
 }
 
